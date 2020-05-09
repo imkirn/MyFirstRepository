@@ -1,0 +1,15 @@
+Steps to play with git😉
+
+1.git init
+2.git add your file name
+3.git commit -m" your message "
+4.git status(optional) (to check if everything is working or not) 
+5. Create your account on github.com
+6.then add the following 2 commands-:
+     git config --global user.name" your username "
+     git config --global user.email" your email id linked with github account "
+7.create the repository on github.com by clicking on new repository,and den just naming it banging that create button.
+8. After clicking on create, a new web page will open. On that page, in the first block(i.e or create a new repository on the command line ), copy the second last line as git remote add origin https...... and paste it in the terminal followed by enter .
+9. Now enter the command git push origin master and den u will be asked for your girhub username and password,provide the details and press enter
+And den boom!!! 
+You have added the respective files to your repository
